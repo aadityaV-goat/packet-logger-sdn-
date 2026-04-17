@@ -49,10 +49,17 @@ h1 iperf -c 10.0.0.2
 Output:
 Controller logs TCP packets
 
+### 3. UDP Test
+Commands:
+h2 iperf -s -u  
+h1 iperf -c 10.0.0.2 -u
+
+Output:
+Controller logs UDP packets
 ## Output
 
 - Packet logs displayed in controller terminal
-- ICMP and TCP packets successfully detected
+- ICMP, UDP and TCP packets successfully detected
 
 ## Screenshots
 
