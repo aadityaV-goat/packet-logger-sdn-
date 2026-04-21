@@ -63,7 +63,7 @@ Controller logs UDP packets
 
 ## Screenshots
 
-Screenshots of execution are provided in the screenshots folder.
+Screenshots of execution are provided in the repository. 
 
 ## Conclusion
 
